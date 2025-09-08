@@ -1,0 +1,6 @@
+
+.navlink { @apply text-slate-700 hover:text-brand-700 transition; }
+.btn { @apply inline-flex items-center gap-2 rounded-xl bg-brand-600 px-4 py-2 text-white shadow-soft hover:bg-brand-700 transition; }
+.hero { background: radial-gradient(80% 80% at 0% 0%, #eaf2ff 0%, transparent 50%), radial-gradient(70% 70% at 100% 0%, #eef8ff 0%, transparent 40%); }
+.card { @apply bg-white rounded-2xl p-6 shadow-soft border border-slate-200; }
+.badge { @apply inline-block rounded-full bg-brand-50 text-brand-800 text-xs px-3 py-1; }
